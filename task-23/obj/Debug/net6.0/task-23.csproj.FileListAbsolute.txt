@@ -1,0 +1,15 @@
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/bin/Debug/net6.0/task-23
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/bin/Debug/net6.0/task-23.deps.json
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/bin/Debug/net6.0/task-23.runtimeconfig.json
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/bin/Debug/net6.0/task-23.dll
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/bin/Debug/net6.0/task-23.pdb
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.csproj.AssemblyReference.cache
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.AssemblyInfoInputs.cache
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.AssemblyInfo.cs
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.csproj.CoreCompileInputs.cache
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.dll
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/refint/task-23.dll
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.pdb
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/task-23.genruntimeconfig.cache
+/Users/gala/Desktop/Projects/dotnet_homework/task-23/obj/Debug/net6.0/ref/task-23.dll
